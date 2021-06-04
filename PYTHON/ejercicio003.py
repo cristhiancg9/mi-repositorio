@@ -1,1 +1,1 @@
-#esto es una prueba de git 
+#calcular el area y el perimetro del triangulo 
